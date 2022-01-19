@@ -7,6 +7,7 @@
 5. [Sample Request Items API](#sample-request-items-api)
 6. [Sample Request Inventory API](#sample-request-inventory-api)
 7. [Current values of Category and Warehouse](#current-values-of-category-and-warehouse)
+8. [Database Schema](#database-schema)
 
 ## Requirements
 
@@ -193,3 +194,10 @@ Category is currently a predefined table with the following values.
 
 <hr>
 
+## Database Schema
+
+The Database Schema for this application can be found at 
+  
+  ```shell
+  src/main/resources/db_schema.sql 
+  ```
