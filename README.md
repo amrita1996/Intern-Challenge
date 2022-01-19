@@ -141,7 +141,7 @@ Sample request Object:
 }
 ```
 <hr>
-<li> Update an existing Item 
+<li> Update an existing Inventory 
 
 ```shell
 PUT https://shopify-backend-challenge-am.herokuapp.com/inventory/4
@@ -155,14 +155,14 @@ Sample request Object:
 }
 ```
 <hr>
-<li> Delete an existing Item 
+<li> Delete an existing Inventory 
 
 ```shell
 DELETE https://shopify-backend-challenge-am.herokuapp.com/inventory/4
 ```
 Request Object: None
 <hr>
-<li> Get All items via CSV 
+<li> Get All inventory via CSV 
 
 ```shell
 GET https://shopify-backend-challenge-am.herokuapp.com/inventory/csv
