@@ -1,5 +1,13 @@
 # Shopify technical backend challenge submission
 
+1. [Requirements](#requirements)
+2. [Running the application locally](#running-the-application-locally)
+3. [Deploying the application to Heroku](#deploying-the-application-to-heroku)
+4. [Testing the application](#testing-the-application)
+5. [Sample Request Items API](#sample-request-items-api)
+6. [Sample Request Inventory API](#sample-request-inventory-api)
+7. [Current values of Category and Warehouse](#current-values-of-category-and-warehouse)
+
 ## Requirements
 
 For building and running the application you need:
