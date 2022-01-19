@@ -105,6 +105,7 @@ GET https://shopify-backend-challenge-am.herokuapp.com/items/csv
 Request Object: None
 
 On Postman: Download as file.
+  
 On SwaggerUI: Click download file button.
 <hr>
 
@@ -160,6 +161,7 @@ GET https://shopify-backend-challenge-am.herokuapp.com/inventory/csv
 Request Object: None
 
 On Postman: Download as file.
+  
 On SwaggerUI: Click download file button.
 <hr>
 
